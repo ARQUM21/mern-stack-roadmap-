@@ -4,24 +4,10 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,react" /><img src="https://skillicons.dev/icons?i=mui,tailwind,nextjs,nodejs,express,mongodb" /><p/>
 
-## Module 1: Web Designing
-|                |                     |
-| -------------- | ------------------- |
-| Pre-requisites | Matric & Computer Familiarity   |
-| Duration       | 2.5 Months          |
-| Quizzes        | 1. HTML5            |
-|                | 2. CSS3             |
-| Hackathon      | After completion    |
+## Module 1: 
 
 ### Topics
 
-- Internet
-  - How Does The Internet Work
-  - What is HTTP?
-  - Domain Name
-  - Hosting
-  - DNS
-  - Browsers
 - HTML5
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS3
@@ -38,12 +24,6 @@
   - [Bootstrap](https://getbootstrap.com/)
 - Google Fonts
   - [Google Fonts](https://getbootstrap.com/)
-- Figma
-  - Plugins
-  - Developer Mode
-  - Pixel Perfect UI
-  - Explore if there are any AI tools
-- [Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 - Netlify Hosting
   - [Netlify](https://app.netlify.com/drop)
 - Git & Github Basics
@@ -62,7 +42,6 @@
 |               | 3. JS3 (Chapters 41 to 60) |
 |               | 4. JS4 (Chapters 61 to 89) |
 |               | 5. Git                    |
-| Hackathon     | After completion          |
 
 ### Topics
 
@@ -99,15 +78,12 @@
   - Merge
   - Rebase
   - Cherry Pick
-- GSAP Animations
 - Supabase
   - Authentication
     - Email
     - Google
   - Database
   - Storage
-- Certifications
-  - [JavaScript by Jetbrain](https://hyperskill.org/courses/32)
 
 ## Module 3: Modern Front-End Development
 
@@ -116,7 +92,7 @@
 | Prerequisites | Module 1, 2              |
 | Duration      | 3 Months                 |
 | Quizzes       | 1. ReactJS               |
-| Hackathon     | After completion         |
+
 
 ### Topics
 - Node runtime
@@ -124,29 +100,21 @@
   - NPM
   - Yarn
 - ReactJS V19
-  - [CRA](https://create-react-app.dev/)
   - [Vite](https://vitejs.dev/)
   - Linters & Formatters
   - Module Bundlers
   - Context API
-  - Redux & RTK
-  - [TanStack Query](https://tanstack.com/query/v3/)
-  - Zustand (Optional)
+  - Redux 
   - Axios (API Integration)
 - [Tailwind](https://tailwindcss.com/)
-- [Shadcn](https://ui.shadcn.com/)
+
 - Authentication Strategies
   - Web Security Knowledge
     - CORS
     - HTTPS
     - Content Security Policy
     - OWASP Security Risks
-- NextJS Introduction
-- Testing
-  - Playwright/ Vitest
-- Certifications
-  - [React Nano degree](https://www.udacity.com/course/react-nanodegree--nd019)
-  - [Meta Front-End](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
 
 ## Module 4: Back-End Development
 
@@ -156,7 +124,6 @@
 | Duration      | 4 Months              |
 | Quizzes       | 1. NodeJS/ Express    |
 |               | 2. MongoDB            |
-| Hackathon     | After completion      |
 
 ### Topics
 
@@ -171,13 +138,8 @@
     - Middleware
     - Protected Routes
     - JWT
-    - WebSocket
     - Bcrypt
     - Cloudinary
-    - Redis
-    - Node-cache
-    - Messaging Queue
-    - [File System module](https://nodejs.org/api/fs.html)
 - Socket IO
 - MongoDB
   - CRUD
