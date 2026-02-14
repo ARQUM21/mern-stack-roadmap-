@@ -1,7 +1,5 @@
 <h1 align='center'>MERN Stack Roadmap</h1>
 
-<img src='./imgs/banner.png'/>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,react" /><img src="https://skillicons.dev/icons?i=mui,tailwind,nextjs,nodejs,express,mongodb" /><p/>
 
 ## Module 1: 
@@ -98,10 +96,8 @@
 - Node runtime
 - Package Managers
   - NPM
-  - Yarn
 - ReactJS V19
   - [Vite](https://vitejs.dev/)
-  - Linters & Formatters
   - Module Bundlers
   - Context API
   - Redux 
@@ -140,10 +136,8 @@
     - JWT
     - Bcrypt
     - Cloudinary
-- Socket IO
 - MongoDB
   - CRUD
-  - Queries
 - Payment Integration
   - Stripe
   - Paypal
