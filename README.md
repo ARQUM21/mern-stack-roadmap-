@@ -1,8 +1,8 @@
-<h1 align='center'>Modern Web & App Development</h1>
+<h1 align='center'>MERN Stack Roadmap</h1>
 
 <img src='./imgs/banner.png'/>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,react" /><img src="https://skillicons.dev/icons?i=mui,tailwind,nextjs,nodejs,express,mongodb" /><p/>
 
 ## Module 1: Web Designing
 |                |                     |
@@ -56,13 +56,12 @@
 |               |                           |
 | ------------- | ------------------------- |
 | Pre-requisite | Module 1                  |
-| Duration      | 4.5 Months                |
+| Duration      | 4 Months                  |
 | Quizzes       | 1. JS1 (Chapters 1 to 20)  |
 |               | 2. JS2 (Chapters 21 to 40) |
 |               | 3. JS3 (Chapters 41 to 60) |
 |               | 4. JS4 (Chapters 61 to 89) |
-|               | 5. TypeScript             |
-|               | 6. Git                    |
+|               | 5. Git                    |
 | Hackathon     | After completion          |
 
 ### Topics
@@ -93,17 +92,6 @@
   - Classes
   - Ternary Operator
   - Optional chaining
-- TypeScript
-  - TS Compiler
-  - Type Annotations
-  - Interfaces
-  - Classes
-  - Generics
-  - Enums
-  - Type Inference
-  - Union and Intersection Types
-  - Type Guards
-  - Decorators
 - Advance Github
   - Branches
   - PR
@@ -111,7 +99,7 @@
   - Merge
   - Rebase
   - Cherry Pick
-- GSAP Animations 
+- GSAP Animations
 - Supabase
   - Authentication
     - Email
@@ -158,9 +146,9 @@
   - Playwright/ Vitest
 - Certifications
   - [React Nano degree](https://www.udacity.com/course/react-nanodegree--nd019)
-  - [Meta Front-Ene](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+  - [Meta Front-End](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-## Module 4: Back-End App Development
+## Module 4: Back-End Development
 
 |               |                       |
 | ------------- | --------------------- |
@@ -168,7 +156,6 @@
 | Duration      | 4 Months              |
 | Quizzes       | 1. NodeJS/ Express    |
 |               | 2. MongoDB            |
-|               | 3. PostgreSQL         |
 | Hackathon     | After completion      |
 
 ### Topics
@@ -195,29 +182,8 @@
 - MongoDB
   - CRUD
   - Queries
-- PostgreSQL
-  - CRUD
-  - Queries
 - Payment Integration
   - Stripe
   - Paypal
 - Linux Basics
 - Deployment (Google Cloud)
-
-## Module 5: Mobile App Development
-
-|               |                       |
-| ------------- | --------------------- |
-| Prerequisites | Module 2              |
-| Duration      | 1 Month               |
-| Quizzes       | 1. React Native       |
-| Hackathon     | After completion      |
-
-### Topics
-
-- React Native
-  - CLI
-  - Expo
-- Build
-- App Publish
-- IOS & ANDROID
