@@ -87,9 +87,7 @@
 
 
 ### Topics
-- Node runtime
-- Package Managers
-  - NPM
+
 - ReactJS V19
   - [Vite](https://vitejs.dev/)
   - Module Bundlers
