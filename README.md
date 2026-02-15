@@ -130,7 +130,5 @@
     - Cloudinary
 - MongoDB
 - Payment Integration
-  - Stripe
-  - Paypal
 - Linux Basics
 - Deployment (Vercel)
