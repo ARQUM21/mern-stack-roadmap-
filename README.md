@@ -129,7 +129,6 @@
     - Bcrypt
     - Cloudinary
 - MongoDB
-  - CRUD
 - Payment Integration
   - Stripe
   - Paypal
