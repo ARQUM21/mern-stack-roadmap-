@@ -133,4 +133,4 @@
   - Stripe
   - Paypal
 - Linux Basics
-- Deployment (Google Cloud)
+- Deployment (Vercel)
