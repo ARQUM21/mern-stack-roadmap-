@@ -1,6 +1,6 @@
 <h1 align='center'>MERN Stack Roadmap</h1>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,supabase,react" /><img src="https://skillicons.dev/icons?i=mui,tailwind,nodejs,express,mongodb,vercel" /><p/>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,supabase,react" /> <img src="https://skillicons.dev/icons?i=mui,tailwind,nodejs,express,mongodb,vercel" /><p/>
 
 ## Module 1: 
 
